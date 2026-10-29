@@ -1,1531 +1,1531 @@
 {
-  "version": 5,
+  "version": 6,
   "replaceStarter": false,
-  "description": "Từ vựng Nga–Việt với giải thích tiếng Nga ở trình độ B1; tổng hợp từ tài liệu học.",
+  "description": "Từ vựng Nga–Việt trong 4 tài liệu học (Du lịch, Kamchatka, Nghề nghiệp IT, Vật lý). Mỗi thẻ có nghĩa tiếng Việt và giải thích bằng tiếng Nga B1, không có câu ví dụ.",
   "words": [
     {
       "ru": "безопасность",
       "vi": "bảo mật; an toàn",
-      "example": "Состояние, когда информация или человек защищены от опасности.",
-      "topic": "Mẫu · Bảo mật"
+      "topic": "Mẫu · Bảo mật",
+      "definition": "Состояние, когда информация или человек защищены от опасности."
     },
     {
       "ru": "защищать",
       "vi": "bảo vệ",
-      "example": "Не давать опасности причинить вред человеку, вещи или информации.",
-      "topic": "Mẫu · Bảo mật"
+      "topic": "Mẫu · Bảo mật",
+      "definition": "Не давать опасности причинить вред человеку, вещи или информации."
     },
     {
       "ru": "угроза",
       "vi": "mối đe dọa",
-      "example": "То, что может причинить вред или создать опасность.",
-      "topic": "Mẫu · Bảo mật"
+      "topic": "Mẫu · Bảo mật",
+      "definition": "То, что может причинить вред или создать опасность."
     },
     {
       "ru": "пароль",
       "vi": "mật khẩu",
-      "example": "Секретное слово или набор символов для входа в систему.",
-      "topic": "Mẫu · Bảo mật"
+      "topic": "Mẫu · Bảo mật",
+      "definition": "Секретное слово или набор символов для входа в систему."
     },
     {
       "ru": "пользователь",
       "vi": "người dùng",
-      "example": "Человек, который использует программу или устройство.",
-      "topic": "Mẫu · Bảo mật"
+      "topic": "Mẫu · Bảo mật",
+      "definition": "Человек, который использует программу или устройство."
     },
     {
       "ru": "доступ",
       "vi": "quyền truy cập",
-      "example": "Возможность открыть информацию или пользоваться системой.",
-      "topic": "Mẫu · Bảo mật"
+      "topic": "Mẫu · Bảo mật",
+      "definition": "Возможность открыть информацию или пользоваться системой."
     },
     {
       "ru": "данные",
       "vi": "dữ liệu",
-      "example": "Информация, которую хранит или обрабатывает компьютер.",
-      "topic": "Mẫu · Bảo mật"
+      "topic": "Mẫu · Bảo mật",
+      "definition": "Информация, которую хранит или обрабатывает компьютер."
     },
     {
       "ru": "сеть",
       "vi": "mạng",
-      "example": "Система соединённых компьютеров и устройств.",
-      "topic": "Mẫu · Bảo mật"
+      "topic": "Mẫu · Bảo mật",
+      "definition": "Система соединённых компьютеров и устройств."
     },
     {
       "ru": "долина",
       "vi": "thung lũng",
-      "example": "Низкое место между горами или холмами.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Низкое место между горами или холмами."
     },
     {
       "ru": "полуостров",
       "vi": "bán đảo",
-      "example": "Часть суши, которую с трёх сторон окружает вода.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Часть суши, которую с трёх сторон окружает вода."
     },
     {
       "ru": "селиться / поселиться",
       "vi": "đến định cư, đến ở",
-      "example": "Начинать жить в новом месте.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Начинать жить в новом месте."
     },
     {
       "ru": "представители национальностей",
       "vi": "đại diện các dân tộc",
-      "example": "Люди, которые относятся к разным народам.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Люди, которые относятся к разным народам."
     },
     {
       "ru": "растения",
       "vi": "thực vật, cây cối",
-      "example": "Деревья, кусты, цветы и травы.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Деревья, кусты, цветы и травы."
     },
     {
       "ru": "растительный мир",
       "vi": "hệ thực vật",
-      "example": "Все растения, которые растут в определённом месте.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Все растения, которые растут в определённом месте."
     },
     {
       "ru": "заповедник",
       "vi": "khu bảo tồn thiên nhiên",
-      "example": "Территория, где природу специально охраняют.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Территория, где природу специально охраняют."
     },
     {
       "ru": "омываться",
       "vi": "được bao quanh, tiếp giáp với nước",
-      "example": "Иметь море или океан у своих берегов.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Иметь море или океан у своих берегов."
     },
     {
       "ru": "измученный",
       "vi": "kiệt sức, mệt lả",
-      "example": "Очень уставший после долгой дороги или тяжёлой работы.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Очень уставший после долгой дороги или тяжёлой работы."
     },
     {
       "ru": "мучить / замучить",
       "vi": "hành hạ, làm khổ",
-      "example": "Причинять человеку физические или душевные страдания.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Причинять человеку физические или душевные страдания."
     },
     {
       "ru": "синеть",
       "vi": "trở nên xanh, ánh xanh",
-      "example": "Становиться синим или казаться синим.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Становиться синим или казаться синим."
     },
     {
       "ru": "бухта",
       "vi": "vịnh nhỏ",
-      "example": "Небольшой залив, защищённый берегами.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Небольшой залив, защищённый берегами."
     },
     {
       "ru": "мореплаватель",
       "vi": "nhà hàng hải",
-      "example": "Человек, который путешествует по морям на корабле.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Человек, который путешествует по морям на корабле."
     },
     {
       "ru": "экспедиция",
       "vi": "chuyến thám hiểm, đoàn khảo sát",
-      "example": "Поездка или путешествие с научной целью.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Поездка или путешествие с научной целью."
     },
     {
       "ru": "поселение",
       "vi": "khu định cư",
-      "example": "Место, где живут люди: деревня или небольшой город.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Место, где живут люди: деревня или небольшой город."
     },
     {
       "ru": "гавань",
       "vi": "bến cảng, cảng tránh gió",
-      "example": "Место у берега, где могут стоять корабли.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Место у берега, где могут стоять корабли."
     },
     {
       "ru": "выкупить билеты",
       "vi": "thanh toán vé đã đặt",
-      "example": "Оплатить билеты, которые заказали заранее.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Оплатить билеты, которые заказали заранее."
     },
     {
       "ru": "путёвка",
       "vi": "phiếu du lịch, gói tour",
-      "example": "Документ, который подтверждает покупку туристической поездки.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Документ, который подтверждает покупку туристической поездки."
     },
     {
       "ru": "термобельё",
       "vi": "đồ giữ nhiệt",
-      "example": "Специальная одежда, которая помогает сохранять тепло.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Специальная одежда, которая помогает сохранять тепло."
     },
     {
       "ru": "непродуваемая куртка",
       "vi": "áo khoác chắn gió",
-      "example": "Куртка, которая хорошо защищает от ветра.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Куртка, которая хорошо защищает от ветра."
     },
     {
       "ru": "непромокаемые ботинки",
       "vi": "giày chống thấm nước",
-      "example": "Обувь, которая не пропускает воду.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Обувь, которая не пропускает воду."
     },
     {
       "ru": "подошва",
       "vi": "đế giày",
-      "example": "Нижняя часть обуви, которая касается земли.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Нижняя часть обуви, которая касается земли."
     },
     {
       "ru": "взять напрокат",
       "vi": "thuê dùng tạm",
-      "example": "Временно пользоваться вещью за деньги.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Временно пользоваться вещью за деньги."
     },
     {
       "ru": "термос",
       "vi": "bình giữ nhiệt",
-      "example": "Предмет, который долго сохраняет напиток горячим или холодным.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Предмет, который долго сохраняет напиток горячим или холодным."
     },
     {
       "ru": "горелка",
       "vi": "bếp đun du lịch",
-      "example": "Небольшой прибор для приготовления еды в походе.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Небольшой прибор для приготовления еды в походе."
     },
     {
       "ru": "удочка",
       "vi": "cần câu",
-      "example": "Предмет, с помощью которого ловят рыбу.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Предмет, с помощью которого ловят рыбу."
     },
     {
       "ru": "двухразовое питание",
       "vi": "ăn hai bữa mỗi ngày",
-      "example": "Питание два раза в день.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Питание два раза в день."
     },
     {
       "ru": "стоимость проживания",
       "vi": "chi phí lưu trú",
-      "example": "Деньги, которые нужно заплатить за жильё.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Деньги, которые нужно заплатить за жильё."
     },
     {
       "ru": "туроператор",
       "vi": "công ty tổ chức tour",
-      "example": "Компания, которая организует туристические поездки.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Компания, которая организует туристические поездки."
     },
     {
       "ru": "забронировать",
       "vi": "đặt trước",
-      "example": "Заранее заказать номер в отеле, билет или место в туре.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Заранее заказать номер в отеле, билет или место в туре."
     },
     {
       "ru": "напоминать",
       "vi": "gợi nhớ, nhắc nhở",
-      "example": "Быть похожим на что-то или вызывать воспоминания.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Быть похожим на что-то или вызывать воспоминания."
     },
     {
       "ru": "сочетание",
       "vi": "sự kết hợp",
-      "example": "Соединение нескольких предметов, цветов или признаков.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Соединение нескольких предметов, цветов или признаков."
     },
     {
       "ru": "лезть",
       "vi": "leo, trèo",
-      "example": "Подниматься куда-то, часто помогая себе руками.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Подниматься куда-то, часто помогая себе руками."
     },
     {
       "ru": "ледник",
       "vi": "sông băng",
-      "example": "Большая масса льда в горах или очень холодных местах.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Большая масса льда в горах или очень холодных местах."
     },
     {
       "ru": "водопад",
       "vi": "thác nước",
-      "example": "Место, где вода падает с большой высоты.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Место, где вода падает с большой высоты."
     },
     {
       "ru": "источник",
       "vi": "nguồn nước; nguồn gốc",
-      "example": "Место, где вода выходит из-под земли; также начало чего-либо.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Место, где вода выходит из-под земли; также начало чего-либо."
     },
     {
       "ru": "бить (о воде)",
       "vi": "phun mạnh, chảy thành tia",
-      "example": "Выходить или течь сильной струёй.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Выходить или течь сильной струёй."
     },
     {
       "ru": "начинание",
       "vi": "sự khởi đầu, việc mới",
-      "example": "Новое дело или первый шаг в важном деле.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Новое дело или первый шаг в важном деле."
     },
     {
       "ru": "неизведанный",
       "vi": "chưa được khám phá",
-      "example": "Неизвестный, ещё не исследованный.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Неизвестный, ещё не исследованный."
     },
     {
       "ru": "достигать / достигнуть",
       "vi": "đạt tới, đến được",
-      "example": "Добраться до места или получить нужный результат.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Добраться до места или получить нужный результат."
     },
     {
       "ru": "перерисовать",
       "vi": "vẽ lại",
-      "example": "Нарисовать ещё раз по готовому рисунку или карте.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Нарисовать ещё раз по готовому рисунку или карте."
     },
     {
       "ru": "складываться / сложиться",
       "vi": "diễn ra, hình thành",
-      "example": "Происходить определённым образом; принимать какой-то результат.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Происходить определённым образом; принимать какой-то результат."
     },
     {
       "ru": "пролив",
       "vi": "eo biển",
-      "example": "Узкая полоса моря между двумя частями суши.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Узкая полоса моря между двумя частями суши."
     },
     {
       "ru": "кругосветное путешествие",
       "vi": "chuyến đi vòng quanh thế giới",
-      "example": "Путешествие вокруг Земли.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Путешествие вокруг Земли."
     },
     {
       "ru": "первооткрыватель",
       "vi": "người đầu tiên khám phá",
-      "example": "Человек, который первым открыл неизвестное место.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Человек, который первым открыл неизвестное место."
     },
     {
       "ru": "пересекать / пересечь",
       "vi": "băng qua, vượt qua",
-      "example": "Передвигаться с одной стороны на другую.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Передвигаться с одной стороны на другую."
     },
     {
       "ru": "скала",
       "vi": "vách đá, tảng đá lớn",
-      "example": "Большой каменный выступ или высокая каменная гора.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Большой каменный выступ или высокая каменная гора."
     },
     {
       "ru": "рассвет",
       "vi": "bình minh",
-      "example": "Время утром, когда начинает появляться солнце.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Время утром, когда начинает появляться солнце."
     },
     {
       "ru": "предрассветный",
       "vi": "trước bình minh",
-      "example": "Такой, который бывает незадолго до восхода солнца.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Такой, который бывает незадолго до восхода солнца."
     },
     {
       "ru": "величественный",
       "vi": "hùng vĩ, uy nghi",
-      "example": "Очень большой и красивый, вызывающий восхищение.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Очень большой и красивый, вызывающий восхищение."
     },
     {
       "ru": "кружить",
       "vi": "bay vòng, xoay vòng",
-      "example": "Двигаться по кругу.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Двигаться по кругу."
     },
     {
       "ru": "выпрыгивать",
       "vi": "nhảy bật ra ngoài",
-      "example": "Прыгать наружу, например из воды.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Прыгать наружу, например из воды."
     },
     {
       "ru": "сопровождать",
       "vi": "đi cùng, hộ tống",
-      "example": "Идти, ехать или плыть вместе с кем-то.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Идти, ехать или плыть вместе с кем-то."
     },
     {
       "ru": "мокнуть / промокнуть",
       "vi": "bị ướt, ướt sũng",
-      "example": "Становиться мокрым от дождя или воды.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Становиться мокрым от дождя или воды."
     },
     {
       "ru": "нерпа",
       "vi": "hải cẩu nhỏ",
-      "example": "Морское животное, похожее на небольшого тюленя.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Морское животное, похожее на небольшого тюленя."
     },
     {
       "ru": "косатка",
       "vi": "cá voi sát thủ",
-      "example": "Большое чёрно-белое морское млекопитающее.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Большое чёрно-белое морское млекопитающее."
     },
     {
       "ru": "гейзер",
       "vi": "mạch nước nóng phun trào",
-      "example": "Горячий источник, который выбрасывает воду и пар вверх.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Горячий источник, который выбрасывает воду и пар вверх."
     },
     {
       "ru": "дельта реки",
       "vi": "châu thổ, đồng bằng cửa sông",
-      "example": "Место, где река перед морем разделяется на несколько рукавов.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Место, где река перед морем разделяется на несколько рукавов."
     },
     {
       "ru": "лысый (о горе)",
       "vi": "trọc, không có cây (về núi)",
-      "example": "Так говорят о горе, на которой нет деревьев или другой растительности.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Так говорят о горе, на которой нет деревьев или другой растительности."
     },
     {
       "ru": "бирюзовый",
       "vi": "màu ngọc lam",
-      "example": "Сине-зелёный цвет, похожий на цвет бирюзы.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Сине-зелёный цвет, похожий на цвет бирюзы."
     },
     {
       "ru": "дымиться",
       "vi": "bốc khói, bốc hơi",
-      "example": "Выпускать дым или пар.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Выпускать дым или пар."
     },
     {
       "ru": "ошеломить",
       "vi": "làm cho sửng sốt",
-      "example": "Очень сильно удивить человека.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Очень сильно удивить человека."
     },
     {
       "ru": "изумрудный",
       "vi": "xanh lục bảo",
-      "example": "Яркий зелёный цвет, как у изумруда.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Яркий зелёный цвет, как у изумруда."
     },
     {
       "ru": "лазурный",
       "vi": "xanh da trời tươi sáng",
-      "example": "Светлый ярко-голубой цвет, как у ясного неба.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Светлый ярко-голубой цвет, как у ясного неба."
     },
     {
       "ru": "рододендрон",
       "vi": "cây đỗ quyên",
-      "example": "Кустарник с крупными красивыми цветами.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Кустарник с крупными красивыми цветами."
     },
     {
       "ru": "туман",
       "vi": "sương mù",
-      "example": "Капли воды в воздухе, из-за которых плохо видно.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Капли воды в воздухе, из-за которых плохо видно."
     },
     {
       "ru": "столб (воды или пара)",
       "vi": "cột nước hoặc hơi nước",
-      "example": "Высокая вертикальная струя воды или пара.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Высокая вертикальная струя воды или пара."
     },
     {
       "ru": "обжечь",
       "vi": "làm bỏng",
-      "example": "Повредить кожу чем-то очень горячим.",
-      "topic": "Du lịch · Kamchatka"
+      "topic": "Du lịch · Kamchatka",
+      "definition": "Повредить кожу чем-то очень горячим."
     },
     {
       "ru": "замечательный",
       "vi": "tuyệt vời, rất tốt",
-      "example": "Очень хороший и приятный; вызывает радость.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Очень хороший и приятный; вызывает радость."
     },
     {
       "ru": "замечать",
       "vi": "nhận ra, chú ý thấy",
-      "example": "Видеть или слышать то, на что раньше не обращал внимания.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Видеть или слышать то, на что раньше не обращал внимания."
     },
     {
       "ru": "незабываемый",
       "vi": "khó quên",
-      "example": "Такой интересный или важный, что его трудно забыть.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Такой интересный или важный, что его трудно забыть."
     },
     {
       "ru": "захватывающий",
       "vi": "hấp dẫn, cuốn hút",
-      "example": "Очень интересный; привлекает всё внимание человека.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Очень интересный; привлекает всё внимание человека."
     },
     {
       "ru": "зарезервировать",
       "vi": "đặt chỗ trước",
-      "example": "Заранее оставить за собой номер, столик или место.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Заранее оставить за собой номер, столик или место."
     },
     {
       "ru": "номер (в гостинице)",
       "vi": "phòng khách sạn",
-      "example": "Комната в гостинице, где живут гости.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Комната в гостинице, где живут гости."
     },
     {
       "ru": "посещать",
       "vi": "đến thăm, ghé đến",
-      "example": "Приходить в какое-то место или ходить туда регулярно.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Приходить в какое-то место или ходить туда регулярно."
     },
     {
       "ru": "посещение",
       "vi": "việc thăm, chuyến ghé thăm",
-      "example": "Действие, когда человек приходит в какое-то место.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Действие, когда человек приходит в какое-то место."
     },
     {
       "ru": "отправляться",
       "vi": "khởi hành, lên đường",
-      "example": "Начинать путь или путешествие.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Начинать путь или путешествие."
     },
     {
       "ru": "отправить",
       "vi": "gửi đi",
-      "example": "Послать письмо, сообщение, посылку или человека куда-то.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Послать письмо, сообщение, посылку или человека куда-то."
     },
     {
       "ru": "приключение",
       "vi": "cuộc phiêu lưu",
-      "example": "Необычное, часто неожиданное событие во время поездки.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Необычное, часто неожиданное событие во время поездки."
     },
     {
       "ru": "полезный",
       "vi": "có ích, hữu ích",
-      "example": "Такой, который приносит пользу или помогает.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Такой, который приносит пользу или помогает."
     },
     {
       "ru": "спонтанный",
       "vi": "ngẫu hứng, tự phát",
-      "example": "Сделанный без долгой подготовки и плана.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Сделанный без долгой подготовки и плана."
     },
     {
       "ru": "опрос",
       "vi": "cuộc khảo sát",
-      "example": "Сбор ответов многих людей на одинаковые вопросы.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Сбор ответов многих людей на одинаковые вопросы."
     },
     {
       "ru": "досуг",
       "vi": "thời gian rảnh, giải trí",
-      "example": "Свободное от работы или учёбы время для отдыха.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Свободное от работы или учёбы время для отдыха."
     },
     {
       "ru": "меня это устраивает",
       "vi": "điều này phù hợp với tôi",
-      "example": "Так говорят, когда человеку подходит предложенный вариант.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Так говорят, когда человеку подходит предложенный вариант."
     },
     {
       "ru": "путешествие вокруг света",
       "vi": "chuyến du lịch vòng quanh thế giới",
-      "example": "Поездка через разные страны вокруг Земли.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Поездка через разные страны вокруг Земли."
     },
     {
       "ru": "порыв (ветра)",
       "vi": "cơn gió giật",
-      "example": "Короткое и сильное движение воздуха.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Короткое и сильное движение воздуха."
     },
     {
       "ru": "восхождение",
       "vi": "cuộc leo núi",
-      "example": "Подъём на гору или другую большую высоту.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Подъём на гору или другую большую высоту."
     },
     {
       "ru": "соблюдать",
       "vi": "tuân thủ, chấp hành",
-      "example": "Действовать по правилам или выполнять требования.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Действовать по правилам или выполнять требования."
     },
     {
       "ru": "размышлять",
       "vi": "suy ngẫm",
-      "example": "Долго и внимательно думать о чём-то.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Долго и внимательно думать о чём-то."
     },
     {
       "ru": "мысль / мысли",
       "vi": "ý nghĩ, suy nghĩ",
-      "example": "То, что возникает в голове, когда человек думает.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "То, что возникает в голове, когда человек думает."
     },
     {
       "ru": "мыслить",
       "vi": "tư duy",
-      "example": "Думать, понимать и делать выводы.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Думать, понимать и делать выводы."
     },
     {
       "ru": "предполагать",
       "vi": "giả định, cho rằng",
-      "example": "Думать, что что-то возможно, хотя точно это неизвестно.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "Думать, что что-то возможно, хотя точно это неизвестно."
     },
     {
       "ru": "поведение",
       "vi": "hành vi, cách cư xử",
-      "example": "То, как человек ведёт себя в разных ситуациях.",
-      "topic": "Du lịch · Cơ bản"
+      "topic": "Du lịch · Cơ bản",
+      "definition": "То, как человек ведёт себя в разных ситуациях."
     },
     {
       "ru": "маршрут",
       "vi": "lộ trình, tuyến đường",
-      "example": "Заранее выбранный путь от одного места до другого.",
-      "topic": "Du lịch · Đến Nga"
+      "topic": "Du lịch · Đến Nga",
+      "definition": "Заранее выбранный путь от одного места до другого."
     },
     {
       "ru": "инфраструктура",
       "vi": "cơ sở hạ tầng",
-      "example": "Дороги, транспорт, больницы и другие важные объекты для жизни.",
-      "topic": "Du lịch · Đến Nga"
+      "topic": "Du lịch · Đến Nga",
+      "definition": "Дороги, транспорт, больницы и другие важные объекты для жизни."
     },
     {
       "ru": "пешая экскурсия",
       "vi": "chuyến tham quan đi bộ",
-      "example": "Осмотр интересных мест во время прогулки пешком.",
-      "topic": "Du lịch · Đến Nga"
+      "topic": "Du lịch · Đến Nga",
+      "definition": "Осмотр интересных мест во время прогулки пешком."
     },
     {
       "ru": "край",
       "vi": "vùng, miền, xứ",
-      "example": "Большая часть страны с общими природными или историческими особенностями.",
-      "topic": "Du lịch · Đến Nga"
+      "topic": "Du lịch · Đến Nga",
+      "definition": "Большая часть страны с общими природными или историческими особенностями."
     },
     {
       "ru": "туристическое направление",
       "vi": "điểm đến du lịch",
-      "example": "Место или регион, куда люди часто едут отдыхать.",
-      "topic": "Du lịch · Đến Nga"
+      "topic": "Du lịch · Đến Nga",
+      "definition": "Место или регион, куда люди часто едут отдыхать."
     },
     {
       "ru": "нас не смутило",
       "vi": "điều đó không làm chúng tôi bối rối",
-      "example": "Мы не испугались и не увидели в ситуации проблемы.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Мы не испугались и не увидели в ситуации проблемы."
     },
     {
       "ru": "представить себе",
       "vi": "hình dung, tưởng tượng",
-      "example": "Создать в голове образ того, чего сейчас не видишь.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Создать в голове образ того, чего сейчас не видишь."
     },
     {
       "ru": "комар / комары",
       "vi": "con muỗi / những con muỗi",
-      "example": "Маленькое летающее насекомое, которое кусает людей и животных.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Маленькое летающее насекомое, которое кусает людей и животных."
     },
     {
       "ru": "гнездо",
       "vi": "tổ chim",
-      "example": "Место, где птицы живут и выращивают птенцов.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Место, где птицы живут и выращивают птенцов."
     },
     {
       "ru": "вулкан",
       "vi": "núi lửa",
-      "example": "Гора, из которой иногда выходят горячая лава, газ и пепел.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Гора, из которой иногда выходят горячая лава, газ и пепел."
     },
     {
       "ru": "инвентарь",
       "vi": "dụng cụ, thiết bị",
-      "example": "Вещи и инструменты, которые нужны для определённой работы.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Вещи и инструменты, которые нужны для определённой работы."
     },
     {
       "ru": "непромокаемые штаны",
       "vi": "quần chống nước",
-      "example": "Штаны из материала, который не пропускает воду.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Штаны из материала, который не пропускает воду."
     },
     {
       "ru": "вездеходные ботинки",
       "vi": "giày đi mọi địa hình",
-      "example": "Прочная обувь, в которой удобно ходить по сложной дороге.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Прочная обувь, в которой удобно ходить по сложной дороге."
     },
     {
       "ru": "упаковывать / упаковать",
       "vi": "đóng gói",
-      "example": "Складывать вещи в сумку, коробку или другую упаковку.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Складывать вещи в сумку, коробку или другую упаковку."
     },
     {
       "ru": "упаковка",
       "vi": "bao bì, việc đóng gói",
-      "example": "Материал или предмет, в который кладут товары и вещи.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Материал или предмет, в который кладут товары и вещи."
     },
     {
       "ru": "моряк",
       "vi": "thủy thủ, người đi biển",
-      "example": "Человек, который работает или служит на корабле.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Человек, который работает или служит на корабле."
     },
     {
       "ru": "матрос",
       "vi": "thủy thủ tàu",
-      "example": "Член команды корабля, который выполняет работу на судне.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Член команды корабля, который выполняет работу на судне."
     },
     {
       "ru": "лазить",
       "vi": "leo trèo (nhiều lần)",
-      "example": "Часто или в разных направлениях подниматься с помощью рук и ног.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Часто или в разных направлениях подниматься с помощью рук и ног."
     },
     {
       "ru": "залив",
       "vi": "vịnh",
-      "example": "Часть моря или озера, которая входит в сушу.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Часть моря или озера, которая входит в сушу."
     },
     {
       "ru": "скопировать",
       "vi": "sao chép",
-      "example": "Сделать такую же копию текста, рисунка или файла.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Сделать такую же копию текста, рисунка или файла."
     },
     {
       "ru": "прыгать / попрыгать",
       "vi": "nhảy, nhảy một lúc",
-      "example": "Отрываться от земли и снова опускаться на неё.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Отрываться от земли и снова опускаться на неё."
     },
     {
       "ru": "лысый (о человеке)",
       "vi": "hói đầu, trọc đầu",
-      "example": "Человек, у которого на голове мало волос или их нет.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Человек, у которого на голове мало волос или их нет."
     },
     {
       "ru": "дым",
       "vi": "khói",
-      "example": "Газ и маленькие частицы, которые появляются при горении.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Газ и маленькие частицы, которые появляются при горении."
     },
     {
       "ru": "задымиться",
       "vi": "bắt đầu bốc khói",
-      "example": "Начать выпускать дым.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Начать выпускать дым."
     },
     {
       "ru": "изумруд",
       "vi": "ngọc lục bảo",
-      "example": "Драгоценный камень яркого зелёного цвета.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Драгоценный камень яркого зелёного цвета."
     },
     {
       "ru": "ёж / ёжик",
       "vi": "con nhím gai",
-      "example": "Небольшое животное, тело которого покрыто острыми иглами.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Небольшое животное, тело которого покрыто острыми иглами."
     },
     {
       "ru": "жечь / сжечь",
       "vi": "đốt, thiêu cháy",
-      "example": "Уничтожать что-то с помощью огня или делать это горячим.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Уничтожать что-то с помощью огня или делать это горячим."
     },
     {
       "ru": "столб",
       "vi": "cột, trụ",
-      "example": "Высокий вертикальный предмет, например для фонаря или проводов.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Высокий вертикальный предмет, например для фонаря или проводов."
     },
     {
       "ru": "бить / побить",
       "vi": "đánh, đập",
-      "example": "Наносить удары рукой, ногой или предметом.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Наносить удары рукой, ногой или предметом."
     },
     {
       "ru": "бой",
       "vi": "trận đánh, cuộc chiến đấu",
-      "example": "Сражение или столкновение между противниками.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Сражение или столкновение между противниками."
     },
     {
       "ru": "спячка",
       "vi": "trạng thái ngủ đông",
-      "example": "Долгий сон некоторых животных в холодное время года.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Долгий сон некоторых животных в холодное время года."
     },
     {
       "ru": "ранить / изранить",
       "vi": "làm bị thương",
-      "example": "Причинять телу повреждения, например острым предметом.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Причинять телу повреждения, например острым предметом."
     },
     {
       "ru": "рана",
       "vi": "vết thương",
-      "example": "Повреждённое место на теле человека или животного.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Повреждённое место на теле человека или животного."
     },
     {
       "ru": "сероводород",
       "vi": "khí hiđro sunfua",
-      "example": "Газ с неприятным запахом тухлых яиц.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Газ с неприятным запахом тухлых яиц."
     },
     {
       "ru": "гибнуть / погибнуть",
       "vi": "chết, thiệt mạng",
-      "example": "Умирать из-за аварии, войны или другой опасности.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Умирать из-за аварии, войны или другой опасности."
     },
     {
       "ru": "уступать / уступить",
       "vi": "nhường, chịu thua",
-      "example": "Добровольно отдавать место другому или соглашаться не спорить.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Добровольно отдавать место другому или соглашаться не спорить."
     },
     {
       "ru": "извергаться",
       "vi": "phun trào",
-      "example": "Выбрасывать наружу лаву, пепел, газ или горячую воду.",
-      "topic": "Du lịch · Thiên nhiên"
+      "topic": "Du lịch · Thiên nhiên",
+      "definition": "Выбрасывать наружу лаву, пепел, газ или горячую воду."
     },
     {
       "ru": "прилагать усилия",
       "vi": "nỗ lực, cố gắng",
-      "example": "Стараться сделать что-то, используя свои силы и время.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Стараться сделать что-то, используя свои силы и время."
     },
     {
       "ru": "необитаемый остров",
       "vi": "đảo hoang không người ở",
-      "example": "Остров, на котором постоянно не живут люди.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Остров, на котором постоянно не живут люди."
     },
     {
       "ru": "обитать",
       "vi": "sinh sống, cư trú",
-      "example": "Жить в определённом месте, чаще о животных.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Жить в определённом месте, чаще о животных."
     },
     {
       "ru": "наплыв туристов",
       "vi": "lượng khách du lịch đổ về đông",
-      "example": "Быстрое увеличение числа туристов в одном месте.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Быстрое увеличение числа туристов в одном месте."
     },
     {
       "ru": "плыть / плавать",
       "vi": "bơi, đi trên nước",
-      "example": "Двигаться по воде; плыть — в одном направлении, плавать — вообще.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Двигаться по воде; плыть — в одном направлении, плавать — вообще."
     },
     {
       "ru": "заплыв",
       "vi": "lượt bơi, cuộc thi bơi",
-      "example": "Отдельный этап соревнований по плаванию или плавание на расстояние.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Отдельный этап соревнований по плаванию или плавание на расстояние."
     },
     {
       "ru": "заселение",
       "vi": "việc nhận phòng, dọn vào ở",
-      "example": "Начало проживания в гостинице, квартире или новом доме.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Начало проживания в гостинице, квартире или новом доме."
     },
     {
       "ru": "дикарём",
       "vi": "đi du lịch tự túc",
-      "example": "Путешествовать самостоятельно, без готового тура.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Путешествовать самостоятельно, без готового тура."
     },
     {
       "ru": "дикие места",
       "vi": "nơi hoang sơ",
-      "example": "Природные места, где мало людей и почти нет построек.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Природные места, где мало людей и почти нет построек."
     },
     {
       "ru": "съёмное жильё",
       "vi": "nhà, căn hộ thuê",
-      "example": "Квартира или дом, которые арендуют на время.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Квартира или дом, которые арендуют на время."
     },
     {
       "ru": "горящий тур",
       "vi": "tour sát ngày giá rẻ",
-      "example": "Тур со скидкой, который продают незадолго до поездки.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Тур со скидкой, который продают незадолго до поездки."
     },
     {
       "ru": "турагентство",
       "vi": "đại lý du lịch",
-      "example": "Компания, которая продаёт путешествия и помогает выбрать тур.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Компания, которая продаёт путешествия и помогает выбрать тур."
     },
     {
       "ru": "гарантия",
       "vi": "sự bảo đảm, bảo hành",
-      "example": "Обещание выполнить условия или исправить проблему.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Обещание выполнить условия или исправить проблему."
     },
     {
       "ru": "форс-мажор",
       "vi": "tình huống bất khả kháng",
-      "example": "Неожиданные серьёзные события, которые нельзя контролировать.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Неожиданные серьёзные события, которые нельзя контролировать."
     },
     {
       "ru": "приватность",
       "vi": "quyền riêng tư",
-      "example": "Возможность сохранять личную жизнь и информацию от посторонних.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Возможность сохранять личную жизнь и информацию от посторонних."
     },
     {
       "ru": "бронировать",
       "vi": "đặt trước",
-      "example": "Заранее заказывать билет, место или номер в гостинице.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Заранее заказывать билет, место или номер в гостинице."
     },
     {
       "ru": "посольство",
       "vi": "đại sứ quán",
-      "example": "Официальное представительство одной страны в другой.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Официальное представительство одной страны в другой."
     },
     {
       "ru": "адаптация",
       "vi": "sự thích nghi",
-      "example": "Привыкание к новым условиям, месту или правилам.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Привыкание к новым условиям, месту или правилам."
     },
     {
       "ru": "антигистаминные препараты",
       "vi": "thuốc kháng histamin",
-      "example": "Лекарства, которые помогают уменьшить симптомы аллергии.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Лекарства, которые помогают уменьшить симптомы аллергии."
     },
     {
       "ru": "фиксированные даты",
       "vi": "những ngày cố định",
-      "example": "Точные даты, которые нельзя свободно изменить.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Точные даты, которые нельзя свободно изменить."
     },
     {
       "ru": "оптовые закупки",
       "vi": "mua hàng số lượng lớn",
-      "example": "Покупка большого количества товаров за один раз.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Покупка большого количества товаров за один раз."
     },
     {
       "ru": "судиться",
       "vi": "kiện tụng, đưa ra tòa",
-      "example": "Обращаться в суд, чтобы решить спор по закону.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Обращаться в суд, чтобы решить спор по закону."
     },
     {
       "ru": "обанкротиться",
       "vi": "phá sản",
-      "example": "Потерять возможность платить долги из-за нехватки денег.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Потерять возможность платить долги из-за нехватки денег."
     },
     {
       "ru": "спонтанный отдых",
       "vi": "chuyến nghỉ dưỡng ngẫu hứng",
-      "example": "Отдых, который человек организует быстро и без плана.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Отдых, который человек организует быстро и без плана."
     },
     {
       "ru": "неприкосновенность частной жизни",
       "vi": "quyền bất khả xâm phạm đời tư",
-      "example": "Право человека на защиту личной жизни от чужого вмешательства.",
-      "topic": "Du lịch · Dịch vụ và du lịch tự túc"
+      "topic": "Du lịch · Dịch vụ và du lịch tự túc",
+      "definition": "Право человека на защиту личной жизни от чужого вмешательства."
     },
     {
       "ru": "айтишник",
       "vi": "người làm ngành CNTT",
-      "example": "Человек, который работает в сфере информационных технологий.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Человек, который работает в сфере информационных технологий."
     },
     {
       "ru": "навык",
       "vi": "kỹ năng",
-      "example": "Умение делать что-то хорошо благодаря практике.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Умение делать что-то хорошо благодаря практике."
     },
     {
       "ru": "разраб",
       "vi": "lập trình viên (tiếng lóng)",
-      "example": "Разговорное сокращение слова «разработчик».",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Разговорное сокращение слова «разработчик»."
     },
     {
       "ru": "зарплата",
       "vi": "tiền lương",
-      "example": "Деньги, которые работник регулярно получает за работу.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Деньги, которые работник регулярно получает за работу."
     },
     {
       "ru": "оклад",
       "vi": "lương cơ bản cố định",
-      "example": "Постоянная часть зарплаты, которую платят за работу.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Постоянная часть зарплаты, которую платят за работу."
     },
     {
       "ru": "престижный",
       "vi": "có uy tín, danh giá",
-      "example": "Такой, который уважают и считают важным.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Такой, который уважают и считают важным."
     },
     {
       "ru": "достижение",
       "vi": "thành tựu",
-      "example": "Хороший результат, которого человек добился своим трудом.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Хороший результат, которого человек добился своим трудом."
     },
     {
       "ru": "уязвимость",
       "vi": "lỗ hổng bảo mật, điểm yếu",
-      "example": "Слабое место в системе, через которое может возникнуть опасность.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Слабое место в системе, через которое может возникнуть опасность."
     },
     {
       "ru": "высокая цена ошибки",
       "vi": "hậu quả nghiêm trọng của sai sót",
-      "example": "Ситуация, когда даже маленькая ошибка может привести к большим проблемам.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Ситуация, когда даже маленькая ошибка может привести к большим проблемам."
     },
     {
       "ru": "опыт",
       "vi": "kinh nghiệm",
-      "example": "Знания и умения, которые человек получил во время работы или жизни.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Знания и умения, которые человек получил во время работы или жизни."
     },
     {
       "ru": "обязанности",
       "vi": "nhiệm vụ, trách nhiệm",
-      "example": "То, что работник должен делать по работе.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "То, что работник должен делать по работе."
     },
     {
       "ru": "владеть",
       "vi": "thành thạo, sở hữu",
-      "example": "Хорошо знать язык, программу или уметь пользоваться инструментом.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Хорошо знать язык, программу или уметь пользоваться инструментом."
     },
     {
       "ru": "тестировщик",
       "vi": "chuyên viên kiểm thử",
-      "example": "Специалист, который проверяет программу и ищет ошибки.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Специалист, который проверяет программу и ищет ошибки."
     },
     {
       "ru": "нагрузка",
       "vi": "tải, mức tải; khối lượng công việc",
-      "example": "Количество работы, которое выполняет человек, устройство или система.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Количество работы, которое выполняет человек, устройство или система."
     },
     {
       "ru": "отказ",
       "vi": "sự từ chối; lỗi ngừng hoạt động",
-      "example": "Нежелание согласиться; в технике — прекращение нормальной работы.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Нежелание согласиться; в технике — прекращение нормальной работы."
     },
     {
       "ru": "сисадмин",
       "vi": "quản trị viên hệ thống",
-      "example": "Разговорное название системного администратора.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Разговорное название системного администратора."
     },
     {
       "ru": "заказчик",
       "vi": "khách hàng đặt dự án",
-      "example": "Человек или организация, которые заказывают работу или услугу.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Человек или организация, которые заказывают работу или услугу."
     },
     {
       "ru": "кнопка",
       "vi": "nút bấm",
-      "example": "Элемент устройства или программы, на который нажимают для действия.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Элемент устройства или программы, на который нажимают для действия."
     },
     {
       "ru": "аналитик",
       "vi": "chuyên viên phân tích",
-      "example": "Специалист, который изучает информацию и делает выводы.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Специалист, который изучает информацию и делает выводы."
     },
     {
       "ru": "разработчик",
       "vi": "người phát triển phần mềm",
-      "example": "Специалист, который создаёт программы или технические решения.",
-      "topic": "Nghề nghiệp · IT"
+      "topic": "Nghề nghiệp · IT",
+      "definition": "Специалист, который создаёт программы или технические решения."
     },
     {
       "ru": "объявление",
       "vi": "thông báo, tin đăng",
-      "example": "Публичное сообщение с важной информацией.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Публичное сообщение с важной информацией."
     },
     {
       "ru": "работодатель",
       "vi": "người sử dụng lao động",
-      "example": "Человек или компания, которые дают людям работу и платят зарплату.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Человек или компания, которые дают людям работу и платят зарплату."
     },
     {
       "ru": "трудовой договор",
       "vi": "hợp đồng lao động",
-      "example": "Официальный документ с условиями работы и оплаты.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Официальный документ с условиями работы и оплаты."
     },
     {
       "ru": "рекрутинговая компания",
       "vi": "công ty tuyển dụng",
-      "example": "Организация, которая помогает работодателям найти сотрудников.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Организация, которая помогает работодателям найти сотрудников."
     },
     {
       "ru": "открывать вакансию",
       "vi": "mở vị trí tuyển dụng",
-      "example": "Начинать поиск человека на свободное рабочее место.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Начинать поиск человека на свободное рабочее место."
     },
     {
       "ru": "сокращение (попасть под сокращение)",
       "vi": "cắt giảm nhân sự (bị cắt giảm)",
-      "example": "Уменьшение числа сотрудников в компании.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Уменьшение числа сотрудников в компании."
     },
     {
       "ru": "увольнение",
       "vi": "việc sa thải, nghỉ việc",
-      "example": "Окончание работы человека в организации.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Окончание работы человека в организации."
     },
     {
       "ru": "наём",
       "vi": "việc thuê, tuyển dụng",
-      "example": "Процесс принятия человека на работу.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Процесс принятия человека на работу."
     },
     {
       "ru": "отбор",
       "vi": "quá trình tuyển chọn",
-      "example": "Выбор наиболее подходящих людей из нескольких кандидатов.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Выбор наиболее подходящих людей из нескольких кандидатов."
     },
     {
       "ru": "повышение",
       "vi": "thăng chức, tăng lương",
-      "example": "Переход на более высокую должность или увеличение оплаты.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Переход на более высокую должность или увеличение оплаты."
     },
     {
       "ru": "возможность продвижения по службе",
       "vi": "cơ hội thăng tiến",
-      "example": "Шанс получить более высокую должность на работе.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Шанс получить более высокую должность на работе."
     },
     {
       "ru": "резюме",
       "vi": "sơ yếu lý lịch xin việc (CV)",
-      "example": "Краткий документ об образовании, опыте и навыках кандидата.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Краткий документ об образовании, опыте и навыках кандидата."
     },
     {
       "ru": "резюме-инфографика",
       "vi": "CV dạng đồ họa",
-      "example": "Резюме, в котором информацию показывают с помощью рисунков и схем.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Резюме, в котором информацию показывают с помощью рисунков и схем."
     },
     {
       "ru": "сильные стороны",
       "vi": "điểm mạnh",
-      "example": "Качества и умения, которые у человека хорошо развиты.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Качества и умения, которые у человека хорошо развиты."
     },
     {
       "ru": "слабые стороны",
       "vi": "điểm yếu",
-      "example": "Качества или умения, которые человеку нужно улучшать.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Качества или умения, которые человеку нужно улучшать."
     },
     {
       "ru": "переработка",
       "vi": "làm thêm giờ",
-      "example": "Работа дольше установленного рабочего времени.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Работа дольше установленного рабочего времени."
     },
     {
       "ru": "достижения",
       "vi": "những thành tích",
-      "example": "Хорошие результаты, которых человек добился.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Хорошие результаты, которых человек добился."
     },
     {
       "ru": "мотивация",
       "vi": "động lực",
-      "example": "Причина, по которой человек хочет действовать и достигать цели.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Причина, по которой человек хочет действовать и достигать цели."
     },
     {
       "ru": "вредные привычки",
       "vi": "thói quen xấu",
-      "example": "Действия, которые могут вредить здоровью или жизни.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Действия, которые могут вредить здоровью или жизни."
     },
     {
       "ru": "собеседование",
       "vi": "buổi phỏng vấn",
-      "example": "Встреча работодателя с кандидатом на работу.",
-      "topic": "Nghề nghiệp · Tìm việc"
+      "topic": "Nghề nghiệp · Tìm việc",
+      "definition": "Встреча работодателя с кандидатом на работу."
     },
     {
       "ru": "виртуальный друг",
       "vi": "người bạn ảo",
-      "example": "Компьютерная программа, с которой человек общается как с другом.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Компьютерная программа, с которой человек общается как с другом."
     },
     {
       "ru": "чат-бот",
       "vi": "chương trình trò chuyện tự động",
-      "example": "Программа, которая отвечает на сообщения человека.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Программа, которая отвечает на сообщения человека."
     },
     {
       "ru": "генеративный чат-бот",
       "vi": "chatbot tạo sinh",
-      "example": "Чат-бот, который сам создаёт новые ответы с помощью ИИ.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Чат-бот, который сам создаёт новые ответы с помощью ИИ."
     },
     {
       "ru": "искусственный интеллект",
       "vi": "trí tuệ nhân tạo",
-      "example": "Технология, которая помогает компьютеру выполнять задачи, требующие мышления.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Технология, которая помогает компьютеру выполнять задачи, требующие мышления."
     },
     {
       "ru": "машинное обучение",
       "vi": "học máy",
-      "example": "Метод, при котором компьютерная система учится на данных.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Метод, при котором компьютерная система учится на данных."
     },
     {
       "ru": "психологическая поддержка",
       "vi": "sự hỗ trợ tinh thần",
-      "example": "Помощь человеку, когда ему трудно или грустно.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Помощь человеку, когда ему трудно или грустно."
     },
     {
       "ru": "обучаемость",
       "vi": "khả năng học hỏi",
-      "example": "Способность учиться новому и менять поведение.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Способность учиться новому и менять поведение."
     },
     {
       "ru": "этичность",
       "vi": "tính đạo đức",
-      "example": "Соблюдение норм правильного и уважительного поведения.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Соблюдение норм правильного и уважительного поведения."
     },
     {
       "ru": "стабильность",
       "vi": "sự ổn định",
-      "example": "Состояние, когда работа или ситуация меняется мало.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Состояние, когда работа или ситуация меняется мало."
     },
     {
       "ru": "регулярное общение",
       "vi": "giao tiếp thường xuyên",
-      "example": "Разговоры и обмен сообщениями, которые происходят постоянно.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Разговоры и обмен сообщениями, которые происходят постоянно."
     },
     {
       "ru": "возможности ИИ",
       "vi": "khả năng của AI",
-      "example": "Задачи и действия, которые может выполнять искусственный интеллект.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Задачи и действия, которые может выполнять искусственный интеллект."
     },
     {
       "ru": "инвестор",
       "vi": "nhà đầu tư",
-      "example": "Человек или компания, которые вкладывают деньги в проект.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Человек или компания, которые вкладывают деньги в проект."
     },
     {
       "ru": "пользователи",
       "vi": "những người dùng",
-      "example": "Люди, которые используют приложение или устройство.",
-      "topic": "IT · Ứng dụng Replika"
+      "topic": "IT · Ứng dụng Replika",
+      "definition": "Люди, которые используют приложение или устройство."
     },
     {
       "ru": "сталкиваться / столкнуться (с чем)",
       "vi": "va chạm, gặp phải",
-      "example": "Ударяться о другой предмет или неожиданно встречаться с проблемой.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Ударяться о другой предмет или неожиданно встречаться с проблемой."
     },
     {
       "ru": "столкновение",
       "vi": "sự va chạm",
-      "example": "Ситуация, когда два движущихся объекта ударяются друг о друга.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Ситуация, когда два движущихся объекта ударяются друг о друга."
     },
     {
       "ru": "отталкиваться / оттолкнуться (от чего)",
       "vi": "đẩy ra, bật ra",
-      "example": "Двигаться от чего-то после толчка; иногда брать что-то за основу решения.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Двигаться от чего-то после толчка; иногда брать что-то за основу решения."
     },
     {
       "ru": "притягивать / притянуть",
       "vi": "thu hút, hút về",
-      "example": "Заставлять другой предмет двигаться ближе с помощью силы.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Заставлять другой предмет двигаться ближе с помощью силы."
     },
     {
       "ru": "противодействовать",
       "vi": "chống lại, đối kháng",
-      "example": "Действовать против силы или процесса и мешать его развитию.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Действовать против силы или процесса и мешать его развитию."
     },
     {
       "ru": "оказывать сопротивление",
       "vi": "tạo ra lực cản, chống lại",
-      "example": "Мешать движению или действию другой силы.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Мешать движению или действию другой силы."
     },
     {
       "ru": "сопротивляться",
       "vi": "kháng cự, chống lại",
-      "example": "Не поддаваться действию силы или чужому влиянию.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Не поддаваться действию силы или чужому влиянию."
     },
     {
       "ru": "препятствовать",
       "vi": "cản trở",
-      "example": "Мешать чему-то происходить или развиваться.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Мешать чему-то происходить или развиваться."
     },
     {
       "ru": "прилагать силу",
       "vi": "tác dụng lực",
-      "example": "Воздействовать на предмет с определённой силой.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Воздействовать на предмет с определённой силой."
     },
     {
       "ru": "сообщать / сообщить",
       "vi": "truyền, thông báo",
-      "example": "Передавать информацию; в физике — передавать телу движение или энергию.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Передавать информацию; в физике — передавать телу движение или энергию."
     },
     {
       "ru": "деформировать",
       "vi": "làm biến dạng",
-      "example": "Изменять форму предмета под действием силы.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Изменять форму предмета под действием силы."
     },
     {
       "ru": "деформироваться",
       "vi": "bị biến dạng",
-      "example": "Менять свою форму под действием нагрузки или давления.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Менять свою форму под действием нагрузки или давления."
     },
     {
       "ru": "приводить в движение",
       "vi": "làm chuyển động",
-      "example": "Заставлять предмет начать двигаться.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Заставлять предмет начать двигаться."
     },
     {
       "ru": "сила трения",
       "vi": "lực ma sát",
-      "example": "Сила, которая мешает движению двух соприкасающихся поверхностей.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Сила, которая мешает движению двух соприкасающихся поверхностей."
     },
     {
       "ru": "сопротивление воздуха",
       "vi": "lực cản không khí",
-      "example": "Сила воздуха, которая мешает движению предмета.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Сила воздуха, которая мешает движению предмета."
     },
     {
       "ru": "одноимённо заряженные частицы",
       "vi": "các hạt mang điện cùng dấu",
-      "example": "Частицы с одинаковым знаком заряда, которые отталкиваются друг от друга.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Частицы с одинаковым знаком заряда, которые отталкиваются друг от друга."
     },
     {
       "ru": "падение",
       "vi": "sự rơi",
-      "example": "Движение тела вниз под действием тяжести.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Движение тела вниз под действием тяжести."
     },
     {
       "ru": "давление",
       "vi": "áp suất, sức ép",
-      "example": "Действие силы на определённую площадь поверхности.",
-      "topic": "Vật lý · Chuyển động và lực"
+      "topic": "Vật lý · Chuyển động và lực",
+      "definition": "Действие силы на определённую площадь поверхности."
     },
     {
       "ru": "уменьшать(ся) / уменьшить(ся)",
       "vi": "làm giảm, giảm đi",
-      "example": "Делать что-то меньше; становиться меньше.",
-      "topic": "Vật lý · Thay đổi và quá trình"
+      "topic": "Vật lý · Thay đổi và quá trình",
+      "definition": "Делать что-то меньше; становиться меньше."
     },
     {
       "ru": "укреплять(ся) / укрепить(ся)",
       "vi": "củng cố, trở nên vững chắc",
-      "example": "Делать что-то более сильным или устойчивым.",
-      "topic": "Vật lý · Thay đổi và quá trình"
+      "topic": "Vật lý · Thay đổi và quá trình",
+      "definition": "Делать что-то более сильным или устойчивым."
     },
     {
       "ru": "усиливать(ся) / усилить(ся)",
       "vi": "tăng cường, trở nên mạnh hơn",
-      "example": "Делать действие или влияние более сильным.",
-      "topic": "Vật lý · Thay đổi và quá trình"
+      "topic": "Vật lý · Thay đổi và quá trình",
+      "definition": "Делать действие или влияние более сильным."
     },
     {
       "ru": "ухудшать(ся) / ухудшить(ся)",
       "vi": "làm xấu đi, trở nên tệ hơn",
-      "example": "Делать качество хуже; становиться хуже.",
-      "topic": "Vật lý · Thay đổi và quá trình"
+      "topic": "Vật lý · Thay đổi và quá trình",
+      "definition": "Делать качество хуже; становиться хуже."
     },
     {
       "ru": "увеличивать(ся) / увеличить(ся)",
       "vi": "làm tăng, tăng lên",
-      "example": "Делать количество или размер больше.",
-      "topic": "Vật lý · Thay đổi và quá trình"
+      "topic": "Vật lý · Thay đổi và quá trình",
+      "definition": "Делать количество или размер больше."
     },
     {
       "ru": "облегчать(ся) / облегчить(ся)",
       "vi": "làm nhẹ, làm dễ hơn",
-      "example": "Делать работу проще или состояние легче.",
-      "topic": "Vật lý · Thay đổi và quá trình"
+      "topic": "Vật lý · Thay đổi và quá trình",
+      "definition": "Делать работу проще или состояние легче."
     },
     {
       "ru": "упрощать(ся) / упростить(ся)",
       "vi": "đơn giản hóa",
-      "example": "Делать что-то менее сложным.",
-      "topic": "Vật lý · Thay đổi và quá trình"
+      "topic": "Vật lý · Thay đổi và quá trình",
+      "definition": "Делать что-то менее сложным."
     },
     {
       "ru": "изменять(ся) / изменить(ся)",
       "vi": "thay đổi",
-      "example": "Делать другим или становиться другим.",
-      "topic": "Vật lý · Thay đổi và quá trình"
+      "topic": "Vật lý · Thay đổi và quá trình",
+      "definition": "Делать другим или становиться другим."
     },
     {
       "ru": "замедлять(ся) / замедлить(ся)",
       "vi": "làm chậm, chậm lại",
-      "example": "Делать движение или процесс медленнее.",
-      "topic": "Vật lý · Thay đổi và quá trình"
+      "topic": "Vật lý · Thay đổi và quá trình",
+      "definition": "Делать движение или процесс медленнее."
     },
     {
       "ru": "ускорять(ся) / ускорить(ся)",
       "vi": "làm nhanh, tăng tốc",
-      "example": "Делать движение или процесс быстрее.",
-      "topic": "Vật lý · Thay đổi và quá trình"
+      "topic": "Vật lý · Thay đổi và quá trình",
+      "definition": "Делать движение или процесс быстрее."
     },
     {
       "ru": "загрузка операционной системы",
       "vi": "quá trình khởi động hệ điều hành",
-      "example": "Процесс запуска системы после включения компьютера.",
-      "topic": "IT · Từ vựng trong bài vật lý"
+      "topic": "IT · Từ vựng trong bài vật lý",
+      "definition": "Процесс запуска системы после включения компьютера."
     },
     {
       "ru": "оптимизация",
       "vi": "sự tối ưu hóa",
-      "example": "Изменение работы системы так, чтобы она была эффективнее.",
-      "topic": "IT · Từ vựng trong bài vật lý"
+      "topic": "IT · Từ vựng trong bài vật lý",
+      "definition": "Изменение работы системы так, чтобы она была эффективнее."
     },
     {
       "ru": "автозапуск программ",
       "vi": "tự khởi chạy chương trình",
-      "example": "Автоматическое открытие программ при запуске компьютера.",
-      "topic": "IT · Từ vựng trong bài vật lý"
+      "topic": "IT · Từ vựng trong bài vật lý",
+      "definition": "Автоматическое открытие программ при запуске компьютера."
     },
     {
       "ru": "интернет-соединение",
       "vi": "kết nối Internet",
-      "example": "Связь устройства с сетью Интернет.",
-      "topic": "IT · Từ vựng trong bài vật lý"
+      "topic": "IT · Từ vựng trong bài vật lý",
+      "definition": "Связь устройства с сетью Интернет."
     },
     {
       "ru": "конфигурация сервера",
       "vi": "cấu hình máy chủ",
-      "example": "Набор настроек, которые определяют работу сервера.",
-      "topic": "IT · Từ vựng trong bài vật lý"
+      "topic": "IT · Từ vựng trong bài vật lý",
+      "definition": "Набор настроек, которые определяют работу сервера."
     },
     {
       "ru": "доступность программы",
       "vi": "khả năng tiếp cận và sử dụng chương trình",
-      "example": "Возможность удобно использовать программу разным людям.",
-      "topic": "IT · Từ vựng trong bài vật lý"
+      "topic": "IT · Từ vựng trong bài vật lý",
+      "definition": "Возможность удобно использовать программу разным людям."
     },
     {
       "ru": "пиковая нагрузка",
       "vi": "tải cao điểm",
-      "example": "Время, когда система получает очень много запросов.",
-      "topic": "IT · Từ vựng trong bài vật lý"
+      "topic": "IT · Từ vựng trong bài vật lý",
+      "definition": "Время, когда система получает очень много запросов."
     },
     {
       "ru": "алгоритм сжатия",
       "vi": "thuật toán nén",
-      "example": "Способ уменьшить размер данных или файлов.",
-      "topic": "IT · Từ vựng trong bài vật lý"
+      "topic": "IT · Từ vựng trong bài vật lý",
+      "definition": "Способ уменьшить размер данных или файлов."
     },
     {
       "ru": "графический файл",
       "vi": "tệp đồ họa",
-      "example": "Компьютерный файл, в котором хранится изображение.",
-      "topic": "IT · Từ vựng trong bài vật lý"
+      "topic": "IT · Từ vựng trong bài vật lý",
+      "definition": "Компьютерный файл, в котором хранится изображение."
     },
     {
       "ru": "инновационная разработка",
       "vi": "sản phẩm phát triển đổi mới",
-      "example": "Новое техническое решение, созданное для улучшения работы.",
-      "topic": "IT · Từ vựng trong bài vật lý"
+      "topic": "IT · Từ vựng trong bài vật lý",
+      "definition": "Новое техническое решение, созданное для улучшения работы."
     }
   ]
 }
