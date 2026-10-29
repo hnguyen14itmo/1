@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "replaceStarter": false,
+  "description": "Các từ mẫu Slovo Lab. Thêm từ mới vào mảng words để trang web tự cập nhật khi mở.",
+  "words": [
+    {
+      "ru": "безопасность",
+      "vi": "sự an toàn; bảo mật",
+      "example": "Информационная безопасность очень важна.",
+      "topic": "Mẫu · Bảo mật"
+    },
+    {
+      "ru": "защищать",
+      "vi": "bảo vệ",
+      "example": "Мы должны защищать свои данные.",
+      "topic": "Mẫu · Bảo mật"
+    },
+    {
+      "ru": "угроза",
+      "vi": "mối đe dọa",
+      "example": "Вирус — это угроза для компьютера.",
+      "topic": "Mẫu · Bảo mật"
+    },
+    {
+      "ru": "пароль",
+      "vi": "mật khẩu",
+      "example": "Никому не говорите свой пароль.",
+      "topic": "Mẫu · Bảo mật"
+    },
+    {
+      "ru": "пользователь",
+      "vi": "người dùng",
+      "example": "Пользователь открывает программу.",
+      "topic": "Mẫu · Bảo mật"
+    },
+    {
+      "ru": "доступ",
+      "vi": "quyền truy cập",
+      "example": "У меня нет доступа к этому файлу.",
+      "topic": "Mẫu · Bảo mật"
+    },
+    {
+      "ru": "данные",
+      "vi": "dữ liệu",
+      "example": "Нужно сохранять важные данные.",
+      "topic": "Mẫu · Bảo mật"
+    },
+    {
+      "ru": "сеть",
+      "vi": "mạng",
+      "example": "Наш компьютер подключён к сети.",
+      "topic": "Mẫu · Bảo mật"
+    }
+  ]
+}
