@@ -1,50 +1,51 @@
-# Slovo Lab — Học từ vựng tiếng Nga–Việt 🇷🇺🇻🇳
+# Slovo Lab — Học từ vựng Nga–Việt 🇷🇺🇻🇳
 
-Ứng dụng web tĩnh giúp học từ vựng bằng flashcard, nghe phát âm tiếng Nga, trắc nghiệm, lịch ôn và thống kê.
+Ứng dụng flashcard tiếng Nga có giao diện tiếng Việt, trắc nghiệm, phát âm, lịch ôn tập và thống kê tiến độ.
 
-## Mở website
+## Bộ từ vựng
 
-Sau khi bật GitHub Pages:
-**https://hnguyen14itmo.github.io/1/**
+Hiện có **254 thẻ**, bao gồm bộ từ mẫu cũ và từ vựng tổng hợp từ 4 tài liệu học:
 
-Để bật Pages lần đầu:
+1. `незнакомые слова.docx` — 68 mục về Kamchatka.
+2. `Путешествие. Лексика.docx` — từ về du lịch và chuyến tham quan.
+3. `08.10. Резюме_повтор конструкций_приложение реплика.pptx` — chủ đề nghề nghiệp IT và ứng dụng Replika.
+4. `13.10. Резюме_характеристика процесса_глаголы физики.pptx` — động từ vật lý và mô tả quá trình.
 
-1. Vào [Settings → Pages](https://github.com/hnguyen14itmo/1/settings/pages).
-2. Tại **Build and deployment → Source**, chọn **Deploy from a branch**.
-3. Tại **Branch**, chọn **main** và thư mục **/(root)**, sau đó bấm **Save**.
-4. Vào địa chỉ website ở trên để sử dụng (thời gian xuất bản phụ thuộc GitHub).
+Một số từ trùng từ hai tài liệu được gộp lại. Bộ từ có thêm các thuật ngữ liên quan trực tiếp trong bài học, không chỉ từ danh sách riêng.
 
-Trang có thể dùng trên điện thoại và máy tính.
+**Thẻ được thiết kế theo dạng:** từ tiếng Nga → nghĩa tiếng Việt → **giải thích ngắn bằng tiếng Nga mức B1**. Không còn câu ví dụ thay cho giải thích.
 
-## Cập nhật danh sách từ qua ChatGPT
-
-Tệp `vocabulary.json` chứa danh sách từ được website tải lại khi mở.
-
-Mỗi từ có định dạng:
+Ví dụ:
 
 ```json
 {
-  "ru": "безопасность",
-  "vi": "bảo mật",
-  "example": "Информационная безопасность очень важна.",
-  "topic": "Bảo mật"
+  "ru": "долина",
+  "vi": "thung lũng",
+  "definition": "Низкое место между горами или холмами.",
+  "topic": "Du lịch · Kamchatka"
 }
 ```
 
-- Đặt từ mới trong mảng `words` của `vocabulary.json`.
-- Mỗi khi cập nhật tệp lên nhánh `main`, website sẽ tải nội dung mới khi mở hoặc khi bấm nút làm mới.
-- Những từ trùng tiếng Nga được cập nhật nghĩa/ví dụ, không xóa lịch sử ôn của từ đó.
-- Để xóa các thẻ mẫu ở những trình duyệt đã dùng trước đây, nên thao tác trong giao diện hoặc thay đổi cơ chế đồng bộ theo nhu cầu.
+## Chạy trên web
 
-## Lưu tiến độ
+- Repository: https://github.com/hnguyen14itmo/1
+- GitHub Pages (nếu đã bật): https://hnguyen14itmo.github.io/1/
 
-- Lịch sử học nằm trong bộ nhớ `localStorage` của **trình duyệt đang sử dụng**; không tự đồng bộ giữa các thiết bị.
-- Xuất sao lưu JSON ở phần **Cài đặt** trước khi xóa dữ liệu trình duyệt hoặc đổi máy.
-- Phát âm tiếng Nga dùng giọng đọc có trên thiết bị; nếu không có giọng Nga thì có thể không phát âm chuẩn.
-- Từ vựng trong GitHub repository công khai cũng là dữ liệu công khai. Không ghi thông tin cá nhân hay mật khẩu vào danh sách từ.
+Nếu Pages chưa hoạt động: trong repository mở **Settings → Pages**, chọn **Deploy from a branch → main → /(root)** và lưu.
 
-## Nguồn
+## Thêm từ cùng ChatGPT
 
-- `index.html`: toàn bộ giao diện và logic app, không cần cài thư viện.
-- `vocabulary.json`: danh sách từ từ xa, dễ cập nhật trong các lần sau.
-- `README.md`: hướng dẫn này.
+- Gửi danh sách từ mới trong cuộc trò chuyện.
+- ChatGPT có thể cập nhật `vocabulary.json` trong repository được cấp quyền.
+- Website sẽ tải bộ từ mới khi bạn mở lại trang, hoặc bấm **↻** để đồng bộ.
+- Từ trùng sẽ được cập nhật giải thích, không làm mất tiến độ ôn.
+
+Mỗi mục từ có 4 trường chính: `ru` (Nga), `vi` (Việt), `definition` (giải thích tiếng Nga), `topic` (chủ đề). Các tệp cũ có trường `example` vẫn được ứng dụng đọc tương thích để giữ dữ liệu.
+
+## Lưu ý
+
+- Tiến độ được lưu vào localStorage của từng trình duyệt, **không tự đồng bộ giữa các thiết bị**.
+- Trong **Cài đặt**, hãy tải bản sao lưu JSON nếu muốn chuyển thiết bị hoặc tránh mất dữ liệu.
+- Giọng đọc tiếng Nga phụ thuộc vào giọng đọc được cài trên trình duyệt / thiết bị.
+- Repository và từ vựng công khai; không đưa mật khẩu, dữ liệu riêng tư vào `vocabulary.json`.
+- Trong tài liệu gốc có một số lỗi chính tả như `касатка`; thẻ dùng cách viết chuẩn `косатка`.
