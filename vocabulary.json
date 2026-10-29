@@ -1,55 +1,463 @@
 {
-  "version": 1,
+  "version": 2,
   "replaceStarter": false,
-  "description": "Các từ mẫu Slovo Lab. Thêm từ mới vào mảng words để trang web tự cập nhật khi mở.",
+  "description": "Từ vựng Nga–Việt với giải thích tiếng Nga ở trình độ B1; tổng hợp từ tài liệu học.",
   "words": [
     {
       "ru": "безопасность",
-      "vi": "sự an toàn; bảo mật",
-      "example": "Информационная безопасность очень важна.",
+      "vi": "bảo mật; an toàn",
+      "example": "Состояние, когда информация или человек защищены от опасности.",
       "topic": "Mẫu · Bảo mật"
     },
     {
       "ru": "защищать",
       "vi": "bảo vệ",
-      "example": "Мы должны защищать свои данные.",
+      "example": "Не давать опасности причинить вред человеку, вещи или информации.",
       "topic": "Mẫu · Bảo mật"
     },
     {
       "ru": "угроза",
       "vi": "mối đe dọa",
-      "example": "Вирус — это угроза для компьютера.",
+      "example": "То, что может причинить вред или создать опасность.",
       "topic": "Mẫu · Bảo mật"
     },
     {
       "ru": "пароль",
       "vi": "mật khẩu",
-      "example": "Никому не говорите свой пароль.",
+      "example": "Секретное слово или набор символов для входа в систему.",
       "topic": "Mẫu · Bảo mật"
     },
     {
       "ru": "пользователь",
       "vi": "người dùng",
-      "example": "Пользователь открывает программу.",
+      "example": "Человек, который использует программу или устройство.",
       "topic": "Mẫu · Bảo mật"
     },
     {
       "ru": "доступ",
       "vi": "quyền truy cập",
-      "example": "У меня нет доступа к этому файлу.",
+      "example": "Возможность открыть информацию или пользоваться системой.",
       "topic": "Mẫu · Bảo mật"
     },
     {
       "ru": "данные",
       "vi": "dữ liệu",
-      "example": "Нужно сохранять важные данные.",
+      "example": "Информация, которую хранит или обрабатывает компьютер.",
       "topic": "Mẫu · Bảo mật"
     },
     {
       "ru": "сеть",
       "vi": "mạng",
-      "example": "Наш компьютер подключён к сети.",
+      "example": "Система соединённых компьютеров и устройств.",
       "topic": "Mẫu · Bảo mật"
+    },
+    {
+      "ru": "долина",
+      "vi": "thung lũng",
+      "example": "Низкое место между горами или холмами.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "полуостров",
+      "vi": "bán đảo",
+      "example": "Часть суши, которую с трёх сторон окружает вода.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "селиться / поселиться",
+      "vi": "đến định cư, đến ở",
+      "example": "Начинать жить в новом месте.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "представители национальностей",
+      "vi": "đại diện các dân tộc",
+      "example": "Люди, которые относятся к разным народам.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "растения",
+      "vi": "thực vật, cây cối",
+      "example": "Деревья, кусты, цветы и травы.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "растительный мир",
+      "vi": "hệ thực vật",
+      "example": "Все растения, которые растут в определённом месте.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "заповедник",
+      "vi": "khu bảo tồn thiên nhiên",
+      "example": "Территория, где природу специально охраняют.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "омываться",
+      "vi": "được bao quanh, tiếp giáp với nước",
+      "example": "Иметь море или океан у своих берегов.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "измученный",
+      "vi": "kiệt sức, mệt lả",
+      "example": "Очень уставший после долгой дороги или тяжёлой работы.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "мучить / замучить",
+      "vi": "hành hạ, làm khổ",
+      "example": "Причинять человеку физические или душевные страдания.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "синеть",
+      "vi": "trở nên xanh, ánh xanh",
+      "example": "Становиться синим или казаться синим.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "бухта",
+      "vi": "vịnh nhỏ",
+      "example": "Небольшой залив, защищённый берегами.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "мореплаватель",
+      "vi": "nhà hàng hải",
+      "example": "Человек, который путешествует по морям на корабле.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "экспедиция",
+      "vi": "chuyến thám hiểm, đoàn khảo sát",
+      "example": "Поездка или путешествие с научной целью.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "поселение",
+      "vi": "khu định cư",
+      "example": "Место, где живут люди: деревня или небольшой город.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "гавань",
+      "vi": "bến cảng, cảng tránh gió",
+      "example": "Место у берега, где могут стоять корабли.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "выкупить билеты",
+      "vi": "thanh toán vé đã đặt",
+      "example": "Оплатить билеты, которые заказали заранее.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "путёвка",
+      "vi": "phiếu du lịch, gói tour",
+      "example": "Документ, который подтверждает покупку туристической поездки.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "термобельё",
+      "vi": "đồ giữ nhiệt",
+      "example": "Специальная одежда, которая помогает сохранять тепло.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "непродуваемая куртка",
+      "vi": "áo khoác chắn gió",
+      "example": "Куртка, которая хорошо защищает от ветра.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "непромокаемые ботинки",
+      "vi": "giày chống thấm nước",
+      "example": "Обувь, которая не пропускает воду.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "подошва",
+      "vi": "đế giày",
+      "example": "Нижняя часть обуви, которая касается земли.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "взять напрокат",
+      "vi": "thuê dùng tạm",
+      "example": "Временно пользоваться вещью за деньги.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "термос",
+      "vi": "bình giữ nhiệt",
+      "example": "Предмет, который долго сохраняет напиток горячим или холодным.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "горелка",
+      "vi": "bếp đun du lịch",
+      "example": "Небольшой прибор для приготовления еды в походе.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "удочка",
+      "vi": "cần câu",
+      "example": "Предмет, с помощью которого ловят рыбу.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "двухразовое питание",
+      "vi": "ăn hai bữa mỗi ngày",
+      "example": "Питание два раза в день.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "стоимость проживания",
+      "vi": "chi phí lưu trú",
+      "example": "Деньги, которые нужно заплатить за жильё.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "туроператор",
+      "vi": "công ty tổ chức tour",
+      "example": "Компания, которая организует туристические поездки.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "забронировать",
+      "vi": "đặt trước",
+      "example": "Заранее заказать номер в отеле, билет или место в туре.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "напоминать",
+      "vi": "gợi nhớ, nhắc nhở",
+      "example": "Быть похожим на что-то или вызывать воспоминания.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "сочетание",
+      "vi": "sự kết hợp",
+      "example": "Соединение нескольких предметов, цветов или признаков.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "лезть",
+      "vi": "leo, trèo",
+      "example": "Подниматься куда-то, часто помогая себе руками.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "ледник",
+      "vi": "sông băng",
+      "example": "Большая масса льда в горах или очень холодных местах.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "водопад",
+      "vi": "thác nước",
+      "example": "Место, где вода падает с большой высоты.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "источник",
+      "vi": "nguồn nước; nguồn gốc",
+      "example": "Место, где вода выходит из-под земли; также начало чего-либо.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "бить (о воде)",
+      "vi": "phun mạnh, chảy thành tia",
+      "example": "Выходить или течь сильной струёй.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "начинание",
+      "vi": "sự khởi đầu, việc mới",
+      "example": "Новое дело или первый шаг в важном деле.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "неизведанный",
+      "vi": "chưa được khám phá",
+      "example": "Неизвестный, ещё не исследованный.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "достигать / достигнуть",
+      "vi": "đạt tới, đến được",
+      "example": "Добраться до места или получить нужный результат.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "перерисовать",
+      "vi": "vẽ lại",
+      "example": "Нарисовать ещё раз по готовому рисунку или карте.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "складываться / сложиться",
+      "vi": "diễn ra, hình thành",
+      "example": "Происходить определённым образом; принимать какой-то результат.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "пролив",
+      "vi": "eo biển",
+      "example": "Узкая полоса моря между двумя частями суши.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "кругосветное путешествие",
+      "vi": "chuyến đi vòng quanh thế giới",
+      "example": "Путешествие вокруг Земли.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "первооткрыватель",
+      "vi": "người đầu tiên khám phá",
+      "example": "Человек, который первым открыл неизвестное место.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "пересекать / пересечь",
+      "vi": "băng qua, vượt qua",
+      "example": "Передвигаться с одной стороны на другую.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "скала",
+      "vi": "vách đá, tảng đá lớn",
+      "example": "Большой каменный выступ или высокая каменная гора.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "рассвет",
+      "vi": "bình minh",
+      "example": "Время утром, когда начинает появляться солнце.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "предрассветный",
+      "vi": "trước bình minh",
+      "example": "Такой, который бывает незадолго до восхода солнца.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "величественный",
+      "vi": "hùng vĩ, uy nghi",
+      "example": "Очень большой и красивый, вызывающий восхищение.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "кружить",
+      "vi": "bay vòng, xoay vòng",
+      "example": "Двигаться по кругу.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "выпрыгивать",
+      "vi": "nhảy bật ra ngoài",
+      "example": "Прыгать наружу, например из воды.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "сопровождать",
+      "vi": "đi cùng, hộ tống",
+      "example": "Идти, ехать или плыть вместе с кем-то.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "мокнуть / промокнуть",
+      "vi": "bị ướt, ướt sũng",
+      "example": "Становиться мокрым от дождя или воды.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "нерпа",
+      "vi": "hải cẩu nhỏ",
+      "example": "Морское животное, похожее на небольшого тюленя.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "косатка",
+      "vi": "cá voi sát thủ",
+      "example": "Большое чёрно-белое морское млекопитающее.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "гейзер",
+      "vi": "mạch nước nóng phun trào",
+      "example": "Горячий источник, который выбрасывает воду и пар вверх.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "дельта реки",
+      "vi": "châu thổ, đồng bằng cửa sông",
+      "example": "Место, где река перед морем разделяется на несколько рукавов.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "лысый (о горе)",
+      "vi": "trọc, không có cây (về núi)",
+      "example": "Так говорят о горе, на которой нет деревьев или другой растительности.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "бирюзовый",
+      "vi": "màu ngọc lam",
+      "example": "Сине-зелёный цвет, похожий на цвет бирюзы.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "дымиться",
+      "vi": "bốc khói, bốc hơi",
+      "example": "Выпускать дым или пар.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "ошеломить",
+      "vi": "làm cho sửng sốt",
+      "example": "Очень сильно удивить человека.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "изумрудный",
+      "vi": "xanh lục bảo",
+      "example": "Яркий зелёный цвет, как у изумруда.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "лазурный",
+      "vi": "xanh da trời tươi sáng",
+      "example": "Светлый ярко-голубой цвет, как у ясного неба.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "рододендрон",
+      "vi": "cây đỗ quyên",
+      "example": "Кустарник с крупными красивыми цветами.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "туман",
+      "vi": "sương mù",
+      "example": "Капли воды в воздухе, из-за которых плохо видно.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "столб (воды или пара)",
+      "vi": "cột nước hoặc hơi nước",
+      "example": "Высокая вертикальная струя воды или пара.",
+      "topic": "Du lịch · Kamchatka"
+    },
+    {
+      "ru": "обжечь",
+      "vi": "làm bỏng",
+      "example": "Повредить кожу чем-то очень горячим.",
+      "topic": "Du lịch · Kamchatka"
     }
   ]
 }
